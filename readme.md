@@ -30,7 +30,7 @@ This project focuses on detecting anomalies in CloudWatch traffic data using mac
 This project is significant for cybersecurity applications, particularly in monitoring and securing web traffic. By identifying anomalies, it helps in early detection of potential web attacks, thereby enhancing the security posture of web applications. The techniques used can be applied to various domains requiring anomaly detection in time-series data.
 
 ## Video Demostration
-[Video Demonstration]()
+[Video Demonstration](https://github.com/Rayyan9477/Anomaly-Detection-in-CloudWatch-Traffic-Data/blob/main/video.mp4)
 
 ## Technologies Used
 - **Programming Language**: Python
@@ -39,4 +39,4 @@ This project is significant for cybersecurity applications, particularly in moni
 ## Contact
 - **Email**: rayyanahmed265@yahoo.com
 - **LinkedIn**: [Rayyan Ahmed](https://www.linkedin.com/in/rayyan-ahmed9477/)
-- **More Work**: [GitHub Profile](https://github.com/Rayyan9477)
+- **More Work**: [Rayyan9477](https://github.com/Rayyan9477)
